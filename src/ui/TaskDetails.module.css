@@ -1,0 +1,11 @@
+
+.task {
+    padding: 10px;
+    width: 300px;
+    border: 5px solid black;
+    margin-bottom: 10px;
+}
+
+.task ul {
+    padding: 0 25px;
+}
